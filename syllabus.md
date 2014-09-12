@@ -2,7 +2,7 @@
 
 **********
 
->**Instructor:**  Patrick D. Schloss, PhD  
+>**Instructor:**  [Patrick D. Schloss, PhD](http://www.med.umich.edu/microbio/bio/schloss.htm).   
 >**Office hours:**  Mondays (3:00-5:00 PM) in 1520A MSRB I  
 >**Lectures:**  Tuesdays and Thursdays (10:00-11:00 AM)  
 >**Laboratory:**  Fridays (1:30-3:30 PM)  
