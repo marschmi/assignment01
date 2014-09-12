@@ -35,6 +35,6 @@
  
 * Software. You will need to install [R](http://www.r-project.org/) and [Rstudio](http://www.rstudio.com/). 
 
-![](/Users/marschmi/Desktop//Rstudio.png)
+![](/assignment01/Rstudio.png)
 
 **********
