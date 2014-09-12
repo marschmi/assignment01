@@ -33,6 +33,8 @@
 
 **Additional materials** Supplemental YouTube videos and online tutorials will be assigned.
  
-* Software. You will need to install [R](http://www.r-project.org/) and [Rstudio](http://www.rstudio.com/). ![](/Users/marschmi/Desktop//Rstudio.png)
+* Software. You will need to install [R](http://www.r-project.org/) and [Rstudio](http://www.rstudio.com/). 
+
+![](/Users/marschmi/Desktop//Rstudio.png)
 
 **********
