@@ -1,12 +1,14 @@
 ##MICRBIOL 612:  Microbial Informatics
 
+**********
+
 >**Instructor:**  Patrick D. Schloss, PhD  
 >**Office hours:**  Mondays (3:00-5:00 PM) in 1520A MSRB I  
 >**Lectures:**  Tuesdays and Thursdays (10:00-11:00 AM)  
 >**Laboratory:**  Fridays (1:30-3:30 PM)  
 >**Location:** 5623 Med Sci II
 
-
+**********
 
 **Coruse description:**  Increasingly, microbiologists are generating large and varied datasets that must be integrated with data from traditional approaches to test hypotheses and identify new avenues of research.  This course will give microbiologists the background they need to design robust experiments, implement traditional statistical approaches for small and large datasets, and utilize the R statistical programming software to perform well-documented and reproducible results.  The R statistical software language will be used throughout the course to introduce students to statistical techniques and computer programming.  R is a powerful open source programming language that anyone can contribute code to.  This has resulted in its widespread use, especially in the field of biostatistics and bioinformatics.  In addition to a comprehensive suite of statistical resources, R is capable of producing highly customizable data visualizations.
 
@@ -27,3 +29,5 @@ Chacon, S (2010). ProGit.
 Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
  
 Software. You will need to install R and Rstudio
+
+**********
